@@ -1,0 +1,10 @@
+/home/alvaro/projects/csharp/persist-face-id/obj/Debug/netcoreapp2.0/persist-face-id.csproj.CoreCompileInputs.cache
+/home/alvaro/projects/csharp/persist-face-id/obj/Debug/netcoreapp2.0/persist-face-id.AssemblyInfoInputs.cache
+/home/alvaro/projects/csharp/persist-face-id/obj/Debug/netcoreapp2.0/persist-face-id.AssemblyInfo.cs
+/home/alvaro/projects/csharp/persist-face-id/bin/Debug/netcoreapp2.0/persist-face-id.deps.json
+/home/alvaro/projects/csharp/persist-face-id/bin/Debug/netcoreapp2.0/persist-face-id.runtimeconfig.json
+/home/alvaro/projects/csharp/persist-face-id/bin/Debug/netcoreapp2.0/persist-face-id.runtimeconfig.dev.json
+/home/alvaro/projects/csharp/persist-face-id/bin/Debug/netcoreapp2.0/persist-face-id.dll
+/home/alvaro/projects/csharp/persist-face-id/bin/Debug/netcoreapp2.0/persist-face-id.pdb
+/home/alvaro/projects/csharp/persist-face-id/obj/Debug/netcoreapp2.0/persist-face-id.dll
+/home/alvaro/projects/csharp/persist-face-id/obj/Debug/netcoreapp2.0/persist-face-id.pdb
